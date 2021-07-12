@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\ya\newi\bin\Debug\net5.0\newi.exe
+C:\Users\user\Desktop\ya\newi\bin\Debug\net5.0\newi.deps.json
+C:\Users\user\Desktop\ya\newi\bin\Debug\net5.0\newi.runtimeconfig.json
+C:\Users\user\Desktop\ya\newi\bin\Debug\net5.0\newi.runtimeconfig.dev.json
+C:\Users\user\Desktop\ya\newi\bin\Debug\net5.0\newi.dll
+C:\Users\user\Desktop\ya\newi\bin\Debug\net5.0\ref\newi.dll
+C:\Users\user\Desktop\ya\newi\bin\Debug\net5.0\newi.pdb
+C:\Users\user\Desktop\ya\newi\obj\Debug\net5.0\newi.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ya\newi\obj\Debug\net5.0\newi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ya\newi\obj\Debug\net5.0\newi.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ya\newi\obj\Debug\net5.0\newi.AssemblyInfo.cs
+C:\Users\user\Desktop\ya\newi\obj\Debug\net5.0\newi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ya\newi\obj\Debug\net5.0\newi.dll
+C:\Users\user\Desktop\ya\newi\obj\Debug\net5.0\ref\newi.dll
+C:\Users\user\Desktop\ya\newi\obj\Debug\net5.0\newi.pdb
+C:\Users\user\Desktop\ya\newi\obj\Debug\net5.0\newi.genruntimeconfig.cache
